@@ -1,0 +1,27 @@
+*blowjob.nvim*                  The plugin loads custom settings on neovim startup
+================================================================================
+Table of Contents
+
+1. Options                                                       |blowjob-options|
+
+
+================================================================================
+1. Options                                                      *blowjob-options*
+
+Some list of options loaded on startup.
+
+Example: >
+
+    int main()
+    {
+            return 0;
+        }
+<
+
+`This is` testing plugin just for learning purposes.
+Intension was to create a set of actions fired up on neovim startup.
+
+
+
+
+vim:tw=78:ts=8:ft=help:norl:
