@@ -5,3 +5,5 @@ Neovim configuration on sturtup. Just for learning purposes. Not useful for real
 ## Documentation
 
 See `:help blowjob.nvim` for detail information
+
+More text.
