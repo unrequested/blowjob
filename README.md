@@ -1,9 +1,12 @@
 # blowjob.nvim
 
-Neovim configuration on sturtup. Just for learning purposes. Not useful for real life.
+Just for learning purposes. Not inteded to be useful.
+However, it can be used as a starting poing for brand new neovim plugin.
 
 ## Documentation
 
 See `:help blowjob.nvim` for detail information
 
-More text.
+## More 
+
+WIP
